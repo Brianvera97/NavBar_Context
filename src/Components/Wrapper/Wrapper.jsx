@@ -4,7 +4,7 @@ import Context from "../Context/Context.jsx";
 
 
 const Wrapper = ( {children} ) => {
-    const [name, setName] = useState("Bob Smith");
+    const [name, setName] = useState("Brian Vera");
 
 return (
         <Context.Provider
